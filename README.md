@@ -7,4 +7,4 @@ This repository represents the work-in-progress capstone project for the authors
 **Resources**
 
 * Dropbox link to data: TODO
-* Report link: TODO
+* Report link: [Link](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
