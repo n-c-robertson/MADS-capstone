@@ -9,3 +9,4 @@ This repository represents the work-in-progress capstone project for the authors
 * Dropbox link to data: [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing) (Only availble to project members)
 * Report link: [Link](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
 * Miro board link: [Link](https://miro.com/app/board/uXjVLWxCxnA=/)
+* Trello board link: [Link](https://trello.com/b/e0sR9M4E/project-zillow-mads-capstone)
