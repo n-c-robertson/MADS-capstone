@@ -12,6 +12,10 @@ We hypothesize that enriching listing data with points of interest (POI) data re
 
 In this report, we outline the existing literature, present the methodology behind our approach, and deliver an evaluation of our results. We seek to communicate how blending multiple data sources, as well as blending tools across machine learning, computer vision, and generative AI delivers an open source, interpretable model of home pricing that provides valuable insights for both buyers and sellers in the real estate market.
 
+#### 
+
+![Figure 1](https://keep.google.com/u/2/media/v2/1PY4_AWak5dv9Iv_U3QYDVrFoV0-aL2n0iA8fKNogxIOdysAea7Xq53PqdO349m8/1tZH8F1Hr7jxUKoyhwwWGplJjIuPLJQiaVVV-9weZU6CzXhEeDut3fL8m5FKe?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=1600)
+
 [The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
 
 ## Accessing the Data
