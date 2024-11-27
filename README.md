@@ -16,7 +16,9 @@ In this report, we outline the existing literature, present the methodology behi
 
 ## Key Visuals
 
-**Example of Computer Vision Room Classifier (Gradient Class Activation Map)**
+**Computer Vison Model Performance**
+
+Our first layer of the model, predicting the class of a Zillow listing image (class=Bathroom, Bedroom, Kithcen, Living Room, Location Exterior, Other) performed with a weighted average F1 score of 0.79. Our second layer of the model, predicting the quality of a listing image (quality=1 to 10 score, with a different model for each class) performed with a mean absolute error of 1.24 - 1.30 across the different image classes.
 
 | Image Classification (All Classes)  | Image Rank (Class=Bathroom) |
 | ------------- | ------------- |
