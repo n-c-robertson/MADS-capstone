@@ -12,13 +12,17 @@ We hypothesize that enriching listing data with points of interest (POI) data re
 
 In this report, we outline the existing literature, present the methodology behind our approach, and deliver an evaluation of our results. We seek to communicate how blending multiple data sources, as well as blending tools across machine learning, computer vision, and generative AI delivers an open source, interpretable model of home pricing that provides valuable insights for both buyers and sellers in the real estate market.
 
-#### Example of Computer Vision Room Classifier (Gradient Class Activation Map)
+[The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
+
+## Key Visuals
+
+**Example of Computer Vision Room Classifier (Gradient Class Activation Map)**
 
 | Image Classification (All Classes)  | Image Rank (Class=Bathroom) |
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1PATYQzxk-h-PhI7pCc9deF4VVc9B3Tf2)  |
 
-#### Pricing Model Performance
+**Pricing Model Performance**
 
 | Prediction  | MAE vs MAPE by Price |
 | ------------- | ------------- |
@@ -28,17 +32,9 @@ In this report, we outline the existing literature, present the methodology behi
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1If4gWJpHYOTb1sJbyZrMgK85NV-R3xuX)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1ytpbzP-dvaskXw5Z-q06Ry4QjLDcpAem)  |
 
-[The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
-
 ## Accessing the Data
 
 The data used for this project can be found in the team's Dropbox [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing). If you need access, please request access from natorobertson@gmail.com.
-
-## Running each notebook
-
-(For each notebook, it is assumed you already installed the correct versions of the packages required from `requirements.txt`.
-
-* `1_Webscrape_Zillow`: No data sets are required to run this web scraper.
 
 ## Resources**
 
