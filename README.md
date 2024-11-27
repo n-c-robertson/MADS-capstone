@@ -12,7 +12,11 @@ We hypothesize that enriching listing data with points of interest (POI) data re
 
 In this report, we outline the existing literature, present the methodology behind our approach, and deliver an evaluation of our results. We seek to communicate how blending multiple data sources, as well as blending tools across machine learning, computer vision, and generative AI delivers an open source, interpretable model of home pricing that provides valuable insights for both buyers and sellers in the real estate market.
 
-#### 
+#### Example of Computer Vision Room Classifier (Gradient Class Activation Map)
+
+| Image Classification  | Image Output |
+| ------------- | ------------- |
+| ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1PATYQzxk-h-PhI7pCc9deF4VVc9B3Tf2)  |
 
 ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)
 
