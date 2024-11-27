@@ -26,6 +26,8 @@ Our first layer of the model, predicting the class of a Zillow listing image (cl
 
 **Pricing Model Performance**
 
+`WRITE WORDS HERE ONCE MODEL IS FINALIZED, AND UPDATE IMAGES.`
+
 | Prediction  | MAE vs MAPE by Price |
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1Hlpk2bEV_xh0M-WxtxF9X1PmITMKttih)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1i26B5PaqtpRDnfCikV182llPqcpbzRAZ) |
