@@ -18,6 +18,15 @@ In this report, we outline the existing literature, present the methodology behi
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1PATYQzxk-h-PhI7pCc9deF4VVc9B3Tf2)  |
 
+#### Model Performance
+
+| Prediction  | MAE vs MAPE by Price |
+| ------------- | ------------- |
+| ![Figure 1](https://drive.usercontent.google.com/download?id=1Hlpk2bEV_xh0M-WxtxF9X1PmITMKttih)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1Hlpk2bEV_xh0M-WxtxF9X1PmITMKttih)  |
+
+| Errors Heatmap (Count)  | Errors Heatmap (%) |
+| ------------- | ------------- |
+| ![Figure 1](https://drive.usercontent.google.com/download?id=1If4gWJpHYOTb1sJbyZrMgK85NV-R3xuX)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1ytpbzP-dvaskXw5Z-q06Ry4QjLDcpAem)  |
 
 [The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
 
