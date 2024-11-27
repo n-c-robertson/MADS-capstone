@@ -20,6 +20,8 @@ In this report, we outline the existing literature, present the methodology behi
 
 Our first layer of the model, predicting the class of a Zillow listing image (class=Bathroom, Bedroom, Kithcen, Living Room, Location Exterior, Other) performed with a weighted average F1 score of 0.79. Our second layer of the model, predicting the quality of a listing image (quality=1 to 10 score, with a different model for each class) performed with a mean absolute error of 1.24 - 1.30 across the different image classes.
 
+The images below show a sample of photos run through each model, and gives some intuition around the features the model finds important when making its decision.
+
 | Image Classification (All Classes)  | Image Rank (Class=Bathroom) |
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1PATYQzxk-h-PhI7pCc9deF4VVc9B3Tf2)  |
