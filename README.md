@@ -42,7 +42,7 @@ The images below show a sample of photos run through each model, and gives some 
 
 The data used for this project can be found in the team's Dropbox [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing). If you need access, please request access from natorobertson@gmail.com.
 
-## Resources**
+## Resources
 
 * Dropbox link to data: [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing) (Only availble to project members)
 * Report link: [Link](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
