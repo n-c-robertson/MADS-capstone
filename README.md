@@ -14,11 +14,10 @@ In this report, we outline the existing literature, present the methodology behi
 
 #### Example of Computer Vision Room Classifier (Gradient Class Activation Map)
 
-| Image Classification  | Image Output |
+| Image Classification (All Classes)  | Image Rank (Class=Bathroom) |
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1PATYQzxk-h-PhI7pCc9deF4VVc9B3Tf2)  |
 
-![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)
 
 [The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
 
