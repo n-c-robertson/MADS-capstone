@@ -4,7 +4,7 @@ _Authors: Nathan Robertson, Mijee Kim, Josh Iwanicki_
 
 ### Introduction
 
-_This repository represents the capstone project for the authors in the Masters of Applied Data Science (MADS) program at the University of Michigan. The project will attempt to build a predicting pricing algorithm using data from Zillow.com home listings._
+_This repository represents the capstone project for the authors in the Masters of Applied Data Science (MADS) program at the University of Michigan. This is a home price prediction project leveraging machine learning, generative AI, and computer vision._
 
 Determining what price you should sell your home for can feel like more of an art than a science. While major home marketplace websites like Zillow provide machine learning-based estimates of a home’s value (“Zestimate”), it does little to educate home buyers and sellers on the nuances that drive home price. In the research community, many research projects focus on data about the listing found online. These lead to explainable models, but they miss many of the variables a more sophisticated model like Zestimate incorporates.
 
