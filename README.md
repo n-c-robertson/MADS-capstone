@@ -2,7 +2,7 @@
 
 _Authors: Nathan Robertson, Mijee Kim, Josh Iwanicki_
 
-### Introduction
+## Introduction
 
 _This repository represents the capstone project for the authors in the Masters of Applied Data Science (MADS) program at the University of Michigan. This is a home price prediction project leveraging machine learning, generative AI, and computer vision._
 
