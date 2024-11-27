@@ -14,7 +14,7 @@ In this report, we outline the existing literature, present the methodology behi
 
 #### 
 
-![Figure 1](https://keep.google.com/u/2/media/v2/1PY4_AWak5dv9Iv_U3QYDVrFoV0-aL2n0iA8fKNogxIOdysAea7Xq53PqdO349m8/1tZH8F1Hr7jxUKoyhwwWGplJjIuPLJQiaVVV-9weZU6CzXhEeDut3fL8m5FKe?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![Figure 1]([https://keep.google.com/u/2/media/v2/1PY4_AWak5dv9Iv_U3QYDVrFoV0-aL2n0iA8fKNogxIOdysAea7Xq53PqdO349m8/1tZH8F1Hr7jxUKoyhwwWGplJjIuPLJQiaVVV-9weZU6CzXhEeDut3fL8m5FKe?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1))
 
 [The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
 
