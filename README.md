@@ -38,6 +38,28 @@ The images below show a sample of photos run through each model, and gives some 
 | ------------- | ------------- |
 | ![Figure 1](https://drive.usercontent.google.com/download?id=1If4gWJpHYOTb1sJbyZrMgK85NV-R3xuX)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1ytpbzP-dvaskXw5Z-q06Ry4QjLDcpAem)  |
 
+## Getting Started
+
+Clone the repo.
+
+```
+git clone https://github.com/n-c-robertson/MADS-capstone.git
+```
+
+Get all of the dependencies needed.
+
+```
+pip install -r requirements.txt
+```
+
+To run all of the code in this project, you will need API keys to a few different resources.
+
+| API | Documentation to set up API key |
+| ------------- | ------------- |
+| Microsoft Azure Vision | [Link (Requires Credit Card)](https://learn.microsoft.com/en-us/answers/questions/126140/service-url-and-api-key-of-computer-vision) |
+| OpenAI | [Link (Requires Credit Card)](https://platform.openai.com/docs/quickstart) |
+| FBI Crime Data | [Link (Free)](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi) |
+
 ## Accessing the Data
 
 The data used for this project can be found in the team's Dropbox [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing). If you need access, please request access from natorobertson@gmail.com.
