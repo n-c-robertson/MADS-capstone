@@ -14,30 +14,6 @@ In this report, we outline the existing literature, present the methodology behi
 
 [The full report can be found here](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
 
-## Key Visuals
-
-**Computer Vison Model Performance**
-
-Our first layer of the model, predicting the class of a Zillow listing image (class=Bathroom, Bedroom, Kithcen, Living Room, Location Exterior, Other) performed with a weighted average F1 score of 0.79. Our second layer of the model, predicting the quality of a listing image (quality=1 to 10 score, with a different model for each class) performed with a mean absolute error of 1.24 - 1.30 across the different image classes.
-
-The images below show a sample of photos run through each model, and gives some intuition around the features the model finds important when making its decision.
-
-| Image Classification (All Classes)  | Image Rank (Class=Bathroom) |
-| ------------- | ------------- |
-| ![Figure 1](https://drive.usercontent.google.com/download?id=1pp3Olo2gGwF1DVFQDUIuK6dXcGug7MA1)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1PATYQzxk-h-PhI7pCc9deF4VVc9B3Tf2)  |
-
-**Pricing Model Performance**
-
-`WRITE WORDS HERE ONCE MODEL IS FINALIZED, AND UPDATE IMAGES.`
-
-| Prediction  | MAE vs MAPE by Price |
-| ------------- | ------------- |
-| ![Figure 1](https://drive.usercontent.google.com/download?id=1Hlpk2bEV_xh0M-WxtxF9X1PmITMKttih)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1i26B5PaqtpRDnfCikV182llPqcpbzRAZ) |
-
-| Errors Heatmap (Count)  | Errors Heatmap (%) |
-| ------------- | ------------- |
-| ![Figure 1](https://drive.usercontent.google.com/download?id=1If4gWJpHYOTb1sJbyZrMgK85NV-R3xuX)  | ![Figure 2](https://drive.usercontent.google.com/download?id=1ytpbzP-dvaskXw5Z-q06Ry4QjLDcpAem)  |
-
 ## Getting Started
 
 Clone the repo.
@@ -64,9 +40,4 @@ To run all of the code in this project, you will need API keys to a few differen
 
 The data used for this project can be found in the team's Dropbox [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing). If you need access, please request access from natorobertson@gmail.com.
 
-## Resources
-
-* Dropbox link to data: [Link](https://www.dropbox.com/home/Nathan%20Robertson/MADS-Fall-2024-Zillow-Predictive-Pricing) (Only availble to project members)
-* Report link: [Link](https://docs.google.com/document/d/1bIc3J4sXRWWcBvTOaUCBsZWUrenWeIn1PhI0KEX_0r4/edit)
-* Miro board link: [Link](https://miro.com/app/board/uXjVLWxCxnA=/)
-* Trello board link: [Link](https://trello.com/b/e0sR9M4E/project-zillow-mads-capstone)
+Download all of the data in Dropbox, and put it in the same directory as the notebook you are trying to run. Assuming you have the necessary API keys (documented above), you should be able to run the notebook.
