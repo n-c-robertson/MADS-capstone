@@ -7,6 +7,7 @@ geojson==3.1.0
 json5==0.9.25
 ipython==8.12.3
 geopy==2.4.1
+lightgbm==3.3.2
 matplotlib==3.9.1
 multiprocess==0.70.16
 numpy==1.26.4
@@ -18,8 +19,10 @@ regex==2024.7.24
 requests==2.32.3
 reverse_geocode==1.6.5
 scikit-learn==1.5.1
+seaborn==0.12.2
 shapely==2.0.6
 tensorflow==2.18.0
 tqdm==4.66.4
 tabulate==0.9.0
 urllib3==2.2.2
+xgboost==1.7.3
