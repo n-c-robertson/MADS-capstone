@@ -26,11 +26,11 @@ pip install -r requirements.txt
 
 To run all of the code in this project, you will need API keys to a few different resources.
 
-| API | Documentation to set up API key |
-| ------------- | ------------- |
-| Microsoft Azure Vision | [Link (Requires Credit Card)](https://learn.microsoft.com/en-us/answers/questions/126140/service-url-and-api-key-of-computer-vision) |
-| OpenAI | [Link (Requires Credit Card)](https://platform.openai.com/docs/quickstart) |
-| FBI Crime Data | [Link (Free)](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi) |
+| API | Documentation to set up API key | Where is it used? |
+| ------------- | ------------- | ------------- |
+| Microsoft Azure Vision | [Link (Requires Credit Card)](https://learn.microsoft.com/en-us/answers/questions/126140/service-url-and-api-key-of-computer-vision) | `4_Generating Image Training Data.ipynb` |
+| OpenAI | [Link (Requires Credit Card)](https://platform.openai.com/docs/quickstart) | `3_Filtering Junk Listings.ipynb`, `4_Generating Image Training Data.ipynb`|
+| FBI Crime Data | [Link (Free)](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi) | `6_POI_+_Additional Datasets.ipynb` | 
 
 ## Accessing the Data
 
